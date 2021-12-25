@@ -1,5 +1,5 @@
 # Amirabbas Asadi
-Hi There! I'm Amirabbas, currently an independent AI researcher and also undergraduage student in computer engineering.
+Hi There! I'm Amirabbas, currently an independent AI researcher and also undergraduate student in computer engineering.
 ## Research Interests:
 - Probabilistic Machine Learning
   - Probabilistic Programming
