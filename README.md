@@ -17,6 +17,7 @@ Hi There! I'm Amirabbas, An independent AI researcher.
 - Programming : C/C++, Julia, Python
 - Parallel Programming: CUDA, MPI, OpenMP
 - Deep Learning: PyTorch, Flux
+- Graph Learning and Geometry: PyTorch Geometric, CGAL
 - Image Processing: OpenCV
 - Probabilistic Programming: Pyro, PyMC3, JAGS
 - Physics Simulation
