@@ -17,11 +17,20 @@ Hi There! I'm Amirabbas, An independent AI researcher.
 - Programming : C/C++, Julia, Python
 - Parallel Programming: CUDA, MPI, OpenMP
 - Deep Learning: PyTorch, Flux
-- Image Processing: (OpenCV)
+- Image Processing: OpenCV
 - Probabilistic Programming: Pyro, PyMC3, JAGS
-- Simulation
+- Physics Simulation
 - Git, Linux and Bash script
 - LaTeX
+
+
+## Open Source Projects:
+- MetaTS: Meta-Learning for Time Series Forecasting
+- AugmentTS: Data Augmentation Time Serie Data using Deep Generative Models
+- Neural Fractal: Generating Fractals using Complex-Valued Neural Networks
+- Babai: A C++ Optimization Library
+- Shotor: An Open OCR dataset for Persian
+
 <!--
 **amirabbasasadi/amirabbasasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
