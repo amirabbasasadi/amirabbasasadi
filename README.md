@@ -5,8 +5,9 @@ Hi There! I'm Amirabbas, An independent AI researcher.
 - Probabilistic Machine Learning
   - Probabilistic Graphical Models
   - Probabilistic Programming
+  - Energy-Based Models
   - Deep Generative Models : VAE, Normalizing Flows, Diffusion Models
-  - Approximate Inference (MCMC, VI)
+  - Approximate Bayesian Inference (MCMC, VI)
 - Reinforcement Learning & Multi-Agent Systems
 - Scientific Computing
   - Simulation
