@@ -1,22 +1,25 @@
 # Amirabbas Asadi
-Hi There! I'm Amirabbas, currently an independent AI researcher and also undergraduate student in computer engineering.
+Hi There! I'm Amirabbas, An independent AI researcher.
+
 ## Research Interests:
 - Probabilistic Machine Learning
+  - Probabilistic Graphical Models
   - Probabilistic Programming
-  - Generative Models
+  - Deep Generative Models : VAE, Normalizing Flows, Diffusion Models
   - Approximate Inference (MCMC, VI)
 - Reinforcement Learning & Multi-Agent Systems
-- Computational Linguistics
 - Scientific Computing
+  - Simulation
+  - Numerical Linear Algebra
+  - Developing ODE/PDE/SDE solvers
 
 ## Technical Skills
-- Programming : C/C++, Python
-- Parallel Programming, familiar with CUDA programming
-- PyTorch
-- Image Processing (OpenCV)
-- Text mining, Web scraping
-- Probabilistic Programming (Pyro), JAGS
-- SQL
+- Programming : C/C++, Julia, Python
+- Parallel Programming: CUDA, MPI, OpenMP
+- Deep Learning: PyTorch, Flux
+- Image Processing: (OpenCV)
+- Probabilistic Programming: Pyro, PyMC3, JAGS
+- Simulation
 - Git, Linux and Bash script
 - LaTeX
 <!--
