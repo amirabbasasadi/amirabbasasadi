@@ -16,7 +16,7 @@ Hi There! I'm Amirabbas, An independent AI researcher.
 
 ## Technical Skills
 - Programming : C/C++, Julia, Python
-- Parallel Programming: CUDA, MPI, OpenMP
+- Parallel Programming: CUDA, MPI, TBB, OpenMP
 - Deep Learning: PyTorch, Flux
 - Graph Learning: PyTorch Geometric
 - Computational Geometry: CGAL
