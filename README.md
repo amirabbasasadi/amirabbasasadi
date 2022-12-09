@@ -10,6 +10,7 @@ Hi There! I'm Amirabbas, An independent AI researcher.
   - Approximate Bayesian Inference (MCMC, VI)
 - Reinforcement Learning & Multi-Agent Systems
 - Scientific Computing
+  - Developing high-performance programs  
   - Simulation
   - Numerical Linear Algebra
   - Developing ODE/PDE/SDE solvers
@@ -28,6 +29,7 @@ Hi There! I'm Amirabbas, An independent AI researcher.
 
 
 ## Open Source Projects:
+- RockyML: A high-performance scientific computing framework
 - MetaTS: Meta-Learning for Time Series Forecasting
 - AugmentTS: Data Augmentation Time Serie Data using Deep Generative Models
 - Neural Fractal: Generating Fractals using Complex-Valued Neural Networks
