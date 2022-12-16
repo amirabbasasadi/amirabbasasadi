@@ -1,5 +1,5 @@
 # Amirabbas Asadi
-Hi There! I'm Amirabbas, An independent AI researcher.
+Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent researcher.
 
 ## Research Interests:
 - Probabilistic Machine Learning
