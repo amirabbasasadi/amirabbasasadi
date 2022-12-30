@@ -10,7 +10,7 @@ Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent res
   - Approximate Bayesian Inference (MCMC, VI)
 - Reinforcement Learning & Multi-Agent Systems
 - Scientific Computing
-  - Developing high-performance programs  
+  - Parallel and Distributed Programming  
   - Simulation
   - Numerical Linear Algebra
   - Developing ODE/PDE/SDE solvers
