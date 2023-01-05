@@ -2,27 +2,30 @@
 Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent researcher.
 
 ## Research Interests:
-- Probabilistic Machine Learning
+- **Probabilistic Machine Learning**
   - Probabilistic Graphical Models
   - Probabilistic Programming
   - Energy-Based Models
   - Deep Generative Models : VAE, Normalizing Flows, Diffusion Models
   - Approximate Bayesian Inference (MCMC, VI)
-- Reinforcement Learning & Multi-Agent Systems
-- Scientific Computing
+- **Reinforcement Learning** & Multi-Agent Systems
+- **High-Performance Scientific Computing**
   - Parallel and Distributed Programming  
   - Simulation
   - Numerical Linear Algebra
   - Developing ODE/PDE/SDE solvers
 
 ## Technical Skills
-- Programming : C/C++, Julia, Python
-- Parallel Programming: CUDA, MPI, TBB, OpenMP
-- Deep Learning: PyTorch, Flux
+- Programming : **C/C++**, **Julia**, **Python**
+- Parallel and Distributed Programming
+  - CPU Parallel Programming: **OpenMP**, **TBB**
+  - GPU Programming: **CUDA**, Thrust
+  - Distributed Programming: **MPI**
+  - Hybrid Parallelism: Mixing MPI and Muti-Threading
+- Deep Learning: **PyTorch**, Flux
 - Graph Learning: PyTorch Geometric
-- Computational Geometry: CGAL
-- Image Processing: OpenCV
-- Probabilistic Programming: Pyro, PyMC3, JAGS
+- Image Processing: **OpenCV**
+- Probabilistic Programming: **Pyro**, PyMC3, JAGS
 - Physics Simulation
 - Git, Linux and Bash script
 - LaTeX
