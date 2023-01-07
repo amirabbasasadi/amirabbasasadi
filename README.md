@@ -21,7 +21,7 @@ Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent res
   - CPU Parallel Programming: **OpenMP**, **TBB**
   - GPU Programming: **CUDA**, Thrust
   - Distributed Programming: **MPI**
-  - Hybrid Parallelism: Mixing MPI and Muti-Threading
+  - Hybrid Parallelism
 - Deep Learning: **PyTorch**, Flux
 - Graph Learning: PyTorch Geometric
 - Image Processing: **OpenCV**
