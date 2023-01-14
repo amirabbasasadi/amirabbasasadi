@@ -1,7 +1,7 @@
 # Amirabbas Asadi
-Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent researcher.
+Hi There! I'm Amirabbas, Currently an independent researcher in Computer Science and AI
 
-## Research Interests:
+## 📔 Research Interests
 - **Probabilistic Machine Learning**
   - Probabilistic Graphical Models
   - Probabilistic Programming
@@ -15,7 +15,7 @@ Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent res
   - Numerical Linear Algebra
   - Developing ODE/PDE/SDE solvers
 
-## Technical Skills
+## 👨‍💻 Technical Skills
 - Programming : **C/C++**, **Julia**, **Python**
 - Parallel and Distributed Programming
   - CPU Parallel Programming: **OpenMP**, **TBB**
@@ -27,29 +27,21 @@ Hi There! I'm Amirabbas, BSc in Computer Engineering and also an independent res
 - Image Processing: **OpenCV**
 - Probabilistic Programming: **Pyro**, PyMC3, JAGS
 - Physics Simulation
+- 2D/3D Data Visualization
 - Git, Linux and Bash script
 - LaTeX
 
+## 👨‍🎓 Education
+- BSc Computer Engineering
+  - Graduation: 2022
+  - GPA: 3.92/4.0  
+ 
+I'm Looking for a Master's position in Computer Science!
 
-## Open Source Projects:
+## 💻 Open Source Projects:
 - RockyML: A high-performance scientific computing framework
 - MetaTS: Meta-Learning for Time Series Forecasting
 - AugmentTS: Data Augmentation Time Serie Data using Deep Generative Models
 - Neural Fractal: Generating Fractals using Complex-Valued Neural Networks
 - Babai: A C++ Optimization Library
 - Shotor: An Open OCR dataset for Persian
-
-<!--
-**amirabbasasadi/amirabbasasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
