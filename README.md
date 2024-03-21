@@ -32,12 +32,14 @@ Hi There! I'm Amirabbas, Currently an independent researcher in Computer Science
 - LaTeX
 
 ## 👨‍🎓 Education
+- MSc Applied Mathematics
+  - Sharif University of Technology
+  - Field: Stochastic Mathematics & Data Science
 - BSc Computer Engineering
+  - Bu-Ali Sina University
   - Graduation: 2022
   - GPA: 3.92/4.0  
  
-I'm Looking for a Master's position in Computer Science!
-
 ## 💻 Open Source Projects:
 - RockyML: A high-performance scientific computing framework
 - MetaTS: Meta-Learning for Time Series Forecasting
