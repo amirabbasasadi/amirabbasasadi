@@ -22,7 +22,7 @@ Hi There! I'm Amirabbas, Currently an independent researcher in Computer Science
   - GPU Programming: **CUDA**, Thrust
   - Distributed Programming: **MPI**
   - Hybrid Parallelism
-- Deep Learning: **PyTorch**, Flux
+- Deep Learning: **PyTorch**, **JAX**
 - Graph Learning: PyTorch Geometric
 - Image Processing: **OpenCV**
 - Probabilistic Programming: **Pyro**, PyMC3, JAGS
