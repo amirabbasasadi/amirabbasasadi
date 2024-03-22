@@ -5,8 +5,7 @@ Hi There! I'm Amirabbas, Currently an independent researcher in Computer Science
 - **Probabilistic Machine Learning**
   - Probabilistic Graphical Models
   - Probabilistic Programming
-  - Energy-Based Models
-  - Deep Generative Models : VAE, Normalizing Flows, Diffusion Models
+  - Deep Generative Models : Energy-Based Models, VAE, Normalizing Flows, Diffusion Models
   - Approximate Bayesian Inference (MCMC, VI)
 - **Reinforcement Learning** & Multi-Agent Systems
 - **High-Performance Scientific Computing**
@@ -19,7 +18,7 @@ Hi There! I'm Amirabbas, Currently an independent researcher in Computer Science
 - Programming : **C/C++**, **Julia**, **Python**
 - Parallel and Distributed Programming
   - CPU Parallel Programming: **OpenMP**, **TBB**
-  - GPU Programming: **CUDA**, Thrust
+  - GPU Programming: **CUDA**
   - Distributed Programming: **MPI**
   - Hybrid Parallelism
 - Deep Learning: **PyTorch**, **JAX**
